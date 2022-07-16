@@ -99,9 +99,12 @@
   :group 'writegood)
 
 (defcustom writegood-weasel-words
-  '("many" "various" "very" "fairly" "several" "extremely"
-    "exceedingly" "quite" "remarkably" "few" "surprisingly"
-    "mostly" "largely" "huge" "tiny" "are a number" "is a number"
+  '("really" "basically" "generally" "important" "methodologic"
+    "as it is well known" "as it has been shown" "it can be regarded that"
+    "it should be emphasized that"
+    "very" "fairly" "several" "extremely"
+    "exceedingly" "quite" "remarkably" "surprisingly"
+    "mostly" "largely" "huge" "are a number" "is a number"
     "excellent" "interestingly" "significantly" "substantially"
     "clearly" "vast" "relatively" "completely" "literally"
     "not rocket science" "outside the box")
